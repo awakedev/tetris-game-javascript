@@ -1,0 +1,8 @@
+class player{
+    constructor
+}
+const player = {
+    pos: {x: 5, y: 5},
+    matrix: createPiece('T'),
+    score: 0,
+}
